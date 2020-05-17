@@ -1,0 +1,17 @@
+WIDTH, HEIGHT =(800,400)
+NAME="My First Python Game"
+
+
+BLACK=(0,0,0)
+PURPLE=(128,0,128)
+AQUA=(0,128,128)
+RED=(255,0,0)
+GREEN=(39,145,32)
+YELLOW=(255,255,0)
+WHITE=(255,255,255)
+
+GRAV=1.2
+
+SPEED=5
+
+FONT="freesansbold.ttf"
